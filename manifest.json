@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "Photo Search from Unsplash",
+  "description": "Quick Unsplash photo search",
+  "version": "1.0.0",
+  "browser_action": {
+    "default_popup": "index.html"
+  },
+  "permissions": ["activeTab"]
+}
